@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW 2020 (64-Bit) -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="2000mm" height="2000mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 173908.61 173908.61"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ xmlns:xodm="http://www.corel.com/coreldraw/odm/2003">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str0 {stroke:#008DD2;stroke-width:6.63;stroke-miterlimit:22.9256}
+    .fil0 {fill:none}
+    .fil2 {fill:#2B2A29}
+    .fil1 {fill:#008DD2}
+    .fnt0 {font-weight:normal;font-size:736.22px;font-family:'Arial'}
+   ]]>
+  </style>
+ </defs>
+ <g id="Layer_x0020_2">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <line class="fil0 str0" x1="83629.45" y1="86954.31" x2="77026.15" y2= "86954.91" />
+  <line class="fil0 str0" x1="77026.15" y1="86954.91" x2="76780.83" y2= "86954.91" />
+  <line class="fil0 str0" x1="76780.83" y1="86954.91" x2="73591.87" y2= "86954.91" />
+  <line class="fil0 str0" x1="73591.87" y1="86954.91" x2="71085.8" y2= "86954.91" />
+  <line class="fil0 str0" x1="71085.8" y1="86954.91" x2="71019.49" y2= "86954.91" />
+  <line class="fil0 str0" x1="71019.49" y1="86954.91" x2="68606.23" y2= "86954.91" />
+  <line class="fil0 str0" x1="68606.23" y1="86954.91" x2="65834.95" y2= "86954.91" />
+  <line class="fil0 str0" x1="65834.95" y1="86954.91" x2="63554.29" y2= "86954.91" />
+  <line class="fil0 str0" x1="63554.29" y1="86954.91" x2="61015.05" y2= "86954.91" />
+  <line class="fil0 str0" x1="61015.05" y1="86954.91" x2="58422.79" y2= "86954.91" />
+  <line class="fil0 str0" x1="58422.79" y1="86954.91" x2="55585.23" y2= "86954.91" />
+  <line class="fil0 str0" x1="55585.23" y1="86954.91" x2="52986.32" y2= "86954.91" />
+  <line class="fil0 str0" x1="52986.32" y1="86954.91" x2="50466.98" y2= "86954.91" />
+  <line class="fil0 str0" x1="50466.98" y1="86954.91" x2="50387.43" y2= "86954.91" />
+  <line class="fil0 str0" x1="50387.43" y1="86954.91" x2="47994.03" y2= "86954.91" />
+  <line class="fil0 str0" x1="47994.03" y1="86954.91" x2="45461.43" y2= "86954.91" />
+  <line class="fil0 str0" x1="45461.43" y1="86954.91" x2="45395.14" y2= "86954.91" />
+  <line class="fil0 str0" x1="45395.14" y1="86954.91" x2="42895.68" y2= "86954.91" />
+  <line class="fil0 str0" x1="42895.68" y1="86954.91" x2="40230.51" y2= "86954.91" />
+  <line class="fil0 str0" x1="40230.51" y1="86954.91" x2="36995.11" y2= "86954.91" />
+  <line class="fil0 str0" x1="36995.11" y1="86954.91" x2="34701.19" y2= "86954.93" />
+  <line class="fil0 str0" x1="34701.19" y1="86954.93" x2="30743.17" y2= "86954.91" />
+  <line class="fil0 str0" x1="30743.17" y1="86954.91" x2="29980.74" y2= "86954.91" />
+  <line class="fil0 str0" x1="29980.74" y1="86954.91" x2="29079.09" y2= "86954.91" />
+  <line class="fil0 str0" x1="25691.26" y1="81385.84" x2="25691.26" y2= "73675.32" />
+  <line class="fil0 str0" x1="25691.26" y1="73675.32" x2="25691.26" y2= "73098.53" />
+  <line class="fil0 str0" x1="25691.26" y1="73098.53" x2="25691.26" y2= "70751.56" />
+  <line class="fil0 str0" x1="25691.26" y1="70751.56" x2="25691.26" y2= "67695.2" />
+  <line class="fil0 str0" x1="25691.26" y1="67695.2" x2="25691.26" y2= "62709.56" />
+  <line class="fil0 str0" x1="25691.26" y1="62709.56" x2="25691.26" y2= "59600.16" />
+  <line class="fil0 str0" x1="29079.09" y1="86954.91" x2="25850.38" y2= "86954.91" />
+  <line class="fil0 str0" x1="25850.38" y1="86954.91" x2="25691.26" y2= "81385.84" />
+  <line class="fil0 str0" x1="83629.45" y1="86954.31" x2="83755.43" y2= "92444.42" />
+  <line class="fil0 str0" x1="83755.43" y1="92444.42" x2="83755.43" y2= "94108.52" />
+  <line class="fil0 str0" x1="86841.42" y1="92444.42" x2="86917.86" y2= "94108.52" />
+  <line class="fil0 str0" x1="90100.18" y1="94108.52" x2="90100.18" y2= "92444.42" />
+  <line class="fil0 str0" x1="90100.18" y1="92444.42" x2="90126.7" y2= "86954.31" />
+  <line class="fil0 str0" x1="137709.13" y1="82632.24" x2="138299.2" y2= "81816.78" />
+  <line class="fil0 str0" x1="138299.2" y1="81816.78" x2="138299.18" y2= "77527.27" />
+  <line class="fil0 str0" x1="138299.18" y1="77527.27" x2="139147.8" y2= "77593.56" />
+  <line class="fil0 str0" x1="138299.18" y1="77527.27" x2="133505.8" y2= "77593.56" />
+  <line class="fil0 str0" x1="139147.8" y1="77593.56" x2="140566.61" y2= "77593.56" />
+  <line class="fil0 str0" x1="140566.61" y1="77593.56" x2="140566.59" y2= "73237.75" />
+  <line class="fil0 str0" x1="140566.59" y1="73237.75" x2="140566.59" y2= "69465.37" />
+  <line class="fil0 str0" x1="140566.59" y1="65905.14" x2="140566.59" y2= "66336.08" />
+  <line class="fil0 str0" x1="140566.59" y1="66336.08" x2="140566.59" y2= "69465.37" />
+  <line class="fil0 str0" x1="140566.61" y1="77593.56" x2="140566.59" y2= "81730.59" />
+  <line class="fil0 str0" x1="140566.59" y1="81730.59" x2="140566.59" y2= "84740.55" />
+  <line class="fil0 str0" x1="140566.59" y1="84740.55" x2="140566.59" y2= "87193.59" />
+  <line class="fil0 str0" x1="140566.59" y1="87193.59" x2="140566.59" y2= "90495.25" />
+  <line class="fil0 str0" x1="140566.59" y1="90495.25" x2="140566.59" y2= "96767.08" />
+  <line class="fil0 str0" x1="140566.59" y1="96767.08" x2="140566.59" y2= "99259.91" />
+  <line class="fil0 str0" x1="140566.59" y1="99259.91" x2="140566.59" y2= "108342.8" />
+  <line class="fil0 str0" x1="140566.59" y1="108342.8" x2="140566.59" y2= "111551.64" />
+  <line class="fil0 str0" x1="140566.59" y1="111551.64" x2="140566.59" y2= "114939.49" />
+  <line class="fil0 str0" x1="140566.59" y1="114939.49" x2="140566.59" y2= "118088.67" />
+  <line class="fil0 str0" x1="86954.31" y1="86954.31" x2="86954.31" y2= "79841.08" />
+  <line class="fil0 str0" x1="86954.31" y1="86954.31" x2="83629.45" y2= "86954.31" />
+  <line class="fil0 str0" x1="86954.31" y1="86954.31" x2="90126.7" y2= "86954.31" />
+  <line class="fil0 str0" x1="86954.31" y1="86954.31" x2="86841.42" y2= "92444.42" />
+  <line class="fil0 str0" x1="86954.31" y1="79841.08" x2="86957.65" y2= "72269.79" />
+  <line class="fil0 str0" x1="86957.65" y1="72269.79" x2="86951" y2= "69790.22" />
+  <line class="fil0 str0" x1="86951" y1="69790.22" x2="86951" y2= "66919.51" />
+  <line class="fil0 str0" x1="84610.67" y1="39120.56" x2="84504.6" y2= "40002.33" />
+  <line class="fil0 str0" x1="84504.6" y1="40002.33" x2="81116.78" y2= "40005.65" />
+  <line class="fil0 str0" x1="81116.78" y1="40005.65" x2="80573.12" y2= "41003.44" />
+  <line class="fil0 str0" x1="80573.12" y1="41003.44" x2="79538.84" y2= "40751.5" />
+  <line class="fil0 str0" x1="139147.79" y1="114939.49" x2="140566.59" y2= "114939.49" />
+  <line class="fil0 str0" x1="139147.79" y1="114939.49" x2="135355.53" y2= "114966.01" />
+  <line class="fil0 str0" x1="135355.53" y1="114966.01" x2="135355.53" y2= "116762.69" />
+  <line class="fil0 str0" x1="135355.53" y1="114966.01" x2="133505.8" y2= "114966.01" />
+  <line class="fil0 str0" x1="141985.37" y1="118088.67" x2="140566.59" y2= "118088.67" />
+  <line class="fil0 str0" x1="139147.79" y1="111551.64" x2="140566.59" y2= "111551.64" />
+  <line class="fil0 str0" x1="139147.79" y1="108342.8" x2="140566.59" y2= "108342.8" />
+  <line class="fil0 str0" x1="140566.59" y1="99259.91" x2="141985.37" y2= "99259.91" />
+  <line class="fil0 str0" x1="139147.79" y1="96767.08" x2="140566.59" y2= "96767.08" />
+  <line class="fil0 str0" x1="140566.59" y1="90495.25" x2="141985.37" y2= "90495.24" />
+  <line class="fil0 str0" x1="140566.59" y1="87193.59" x2="141985.37" y2= "87193.58" />
+  <line class="fil0 str0" x1="140566.59" y1="84740.55" x2="141985.37" y2= "84740.54" />
+  <line class="fil0 str0" x1="140566.59" y1="81730.59" x2="141985.37" y2= "81730.59" />
+  <line class="fil0 str0" x1="140566.59" y1="73237.75" x2="139147.79" y2= "73237.76" />
+  <line class="fil0 str0" x1="140566.59" y1="69465.37" x2="141985.37" y2= "69465.37" />
+  <line class="fil0 str0" x1="140566.59" y1="66336.08" x2="141985.37" y2= "66336.08" />
+  <line class="fil0 str0" x1="140566.59" y1="65905.14" x2="139147.79" y2= "65905.15" />
+  <line class="fil0 str0" x1="140566.59" y1="65905.14" x2="140573.22" y2= "64333.87" />
+  <line class="fil0 str0" x1="77026.15" y1="86954.91" x2="77026.15" y2= "88201.32" />
+  <line class="fil0 str0" x1="76780.83" y1="86954.91" x2="76780.83" y2= "85701.87" />
+  <line class="fil0 str0" x1="76780.83" y1="85701.87" x2="75965.38" y2= "84660.98" />
+  <line class="fil0 str0" x1="75965.38" y1="84660.98" x2="75965.38" y2= "80132.79" />
+  <line class="fil0 str0" x1="75965.38" y1="80132.79" x2="76880.28" y2= "79483.07" />
+  <line class="fil0 str0" x1="73591.87" y1="86954.91" x2="73591.87" y2= "85701.87" />
+  <line class="fil0 str0" x1="71085.8" y1="85701.87" x2="71085.8" y2= "86954.91" />
+  <line class="fil0 str0" x1="71019.49" y1="88201.32" x2="71019.49" y2= "86954.91" />
+  <line class="fil0 str0" x1="68606.23" y1="86954.91" x2="68606.23" y2= "85701.87" />
+  <line class="fil0 str0" x1="65834.95" y1="86954.91" x2="65834.95" y2= "88201.32" />
+  <line class="fil0 str0" x1="63554.29" y1="86954.91" x2="63554.29" y2= "85701.87" />
+  <line class="fil0 str0" x1="61015.05" y1="86954.91" x2="61015.06" y2= "88201.32" />
+  <line class="fil0 str0" x1="58422.79" y1="86954.91" x2="58422.79" y2= "85701.87" />
+  <line class="fil0 str0" x1="55585.23" y1="86954.91" x2="55585.23" y2= "88201.32" />
+  <line class="fil0 str0" x1="52986.32" y1="86954.91" x2="52986.32" y2= "85701.87" />
+  <line class="fil0 str0" x1="50466.98" y1="85701.87" x2="50466.98" y2= "86954.91" />
+  <line class="fil0 str0" x1="50387.43" y1="88201.32" x2="50387.43" y2= "86954.91" />
+  <line class="fil0 str0" x1="47994.03" y1="86954.91" x2="47994.03" y2= "85701.87" />
+  <line class="fil0 str0" x1="45461.43" y1="88201.32" x2="45461.43" y2= "86954.91" />
+  <line class="fil0 str0" x1="45395.14" y1="85556.01" x2="45395.14" y2= "86954.91" />
+  <line class="fil0 str0" x1="45395.14" y1="85556.01" x2="45892.37" y2= "84375.89" />
+  <line class="fil0 str0" x1="45395.14" y1="85556.01" x2="44546.53" y2= "84375.89" />
+  <line class="fil0 str0" x1="42895.68" y1="86954.91" x2="42895.68" y2= "85701.87" />
+  <line class="fil0 str0" x1="40230.51" y1="86954.91" x2="40230.51" y2= "88201.32" />
+  <line class="fil0 str0" x1="36995.11" y1="86954.91" x2="36995.12" y2= "88267.62" />
+  <line class="fil0 str0" x1="34701.19" y1="86954.93" x2="34701.19" y2= "85701.87" />
+  <line class="fil0 str0" x1="30743.17" y1="86954.91" x2="30743.17" y2= "85688.61" />
+  <line class="fil0 str0" x1="29079.09" y1="85688.61" x2="29079.09" y2= "86954.91" />
+  <line class="fil0 str0" x1="29079.09" y1="85688.61" x2="28124.41" y2= "84395.78" />
+  <line class="fil0 str0" x1="28124.41" y1="84395.78" x2="28124.41" y2= "78959.31" />
+  <line class="fil0 str0" x1="30743.17" y1="85688.61" x2="31943.21" y2= "84395.78" />
+  <line class="fil0 str0" x1="31943.21" y1="84395.78" x2="31943.21" y2= "78959.31" />
+  <line class="fil0 str0" x1="31943.21" y1="78959.31" x2="32891.27" y2= "78641.08" />
+  <line class="fil0 str0" x1="28124.41" y1="78959.31" x2="31943.21" y2= "78959.31" />
+  <line class="fil0 str0" x1="29980.74" y1="86954.91" x2="29980.74" y2= "94154.92" />
+  <line class="fil0 str0" x1="25850.38" y1="86954.91" x2="25850.35" y2= "88168.17" />
+  <line class="fil0 str0" x1="24484.59" y1="87644.41" x2="25850.38" y2= "86954.91" />
+  <line class="fil0 str0" x1="25691.26" y1="81385.84" x2="24259.18" y2= "81385.83" />
+  <line class="fil0 str0" x1="27129.92" y1="73675.33" x2="25691.26" y2= "73675.32" />
+  <line class="fil0 str0" x1="25691.26" y1="73098.53" x2="24259.18" y2= "73098.53" />
+  <line class="fil0 str0" x1="25691.26" y1="70751.56" x2="27129.92" y2= "70751.56" />
+  <line class="fil0 str0" x1="25691.26" y1="67695.2" x2="24259.18" y2= "67695.21" />
+  <line class="fil0 str0" x1="25691.26" y1="62709.56" x2="27129.92" y2= "62709.56" />
+  <line class="fil0 str0" x1="25691.26" y1="59600.16" x2="27129.92" y2= "59600.16" />
+  <line class="fil0 str0" x1="27129.92" y1="59600.16" x2="28117.78" y2= "60349.33" />
+  <line class="fil0 str0" x1="28117.78" y1="60349.33" x2="32526.61" y2= "60349.33" />
+  <line class="fil0 str0" x1="32526.61" y1="60349.33" x2="33255.88" y2= "59600.16" />
+  <line class="fil0 str0" x1="86951" y1="69790.22" x2="85333.33" y2= "69790.24" />
+  <line class="fil0 str0" x1="86951" y1="69790.22" x2="88575.33" y2= "69790.24" />
+  <line class="fil0 str0" x1="88575.33" y1="66919.51" x2="86951" y2= "66919.51" />
+  <line class="fil0 str0" x1="86951" y1="66919.51" x2="85333.33" y2= "66919.51" />
+  <line class="fil0 str0" x1="87070.36" y1="65772.55" x2="86951" y2= "66919.51" />
+  <line class="fil0 str0" x1="86831.68" y1="58592.42" x2="87070.36" y2= "65772.55" />
+  <circle class="fil1 str0" cx="84610.67" cy="39120.56" r="304.34"/>
+  <circle class="fil1 str0" cx="86954.31" cy="79841.08" r="173.91"/>
+  <circle class="fil1 str0" cx="86957.65" cy="72269.79" r="173.91"/>
+  <circle class="fil1 str0" cx="76780.83" cy="85701.87" r="130.43"/>
+  <circle class="fil1 str0" cx="29079.09" cy="85688.61" r="86.95"/>
+  <circle class="fil1 str0" cx="30743.17" cy="85688.61" r="86.95"/>
+  <circle class="fil1 str0" cx="27129.92" cy="59600.16" r="43.48"/>
+  <circle class="fil1 str0" cx="135355.53" cy="116762.69" r="260.86"/>
+  <circle class="fil1 str0" cx="137709.13" cy="82632.24" r="217.39"/>
+  <circle class="fil1 str0" cx="139147.8" cy="77593.56" r="217.39"/>
+  <rect class="fil0" x="0" y="0" width="173908.61" height="173908.61"/>
+  <text x="24259.18" y="67695.21"  class="fil2 fnt0">103 101</text>
+  <text x="27129.92" y="70751.56"  class="fil2 fnt0">102</text>
+  <text x="27129.92" y="62709.56"  class="fil2 fnt0">102а</text>
+  <text x="27129.92" y="73675.33"  class="fil2 fnt0">104</text>
+  <text x="24259.18" y="73098.53"  class="fil2 fnt0">1</text>
+  <text x="24259.18" y="81385.83"  class="fil2 fnt0">1</text>
+  <text x="24484.59" y="87644.41"  class="fil2 fnt0">2</text>
+  <text x="25850.35" y="88168.17"  class="fil2 fnt0">3</text>
+  <text x="29980.74" y="94154.92"  class="fil2 fnt0">Читальный зал</text>
+  <text x="34701.19" y="85701.87"  class="fil2 fnt0">106 108</text>
+  <text x="42895.68" y="85701.87"  class="fil2 fnt0">110</text>
+  <text x="44546.53" y="84375.89"  class="fil2 fnt0">112</text>
+  <text x="45892.37" y="84375.89"  class="fil2 fnt0">112</text>
+  <text x="47994.03" y="85701.87"  class="fil2 fnt0">114</text>
+  <text x="50466.98" y="85701.87"  class="fil2 fnt0">116</text>
+  <text x="52986.32" y="85701.87"  class="fil2 fnt0">118</text>
+  <text x="58422.79" y="85701.87"  class="fil2 fnt0">120</text>
+  <text x="63554.29" y="85701.87"  class="fil2 fnt0">122а</text>
+  <text x="68606.23" y="85701.87"  class="fil2 fnt0">122</text>
+  <text x="71085.8" y="85701.87"  class="fil2 fnt0">124</text>
+  <text x="73591.87" y="85701.87"  class="fil2 fnt0">ТЖ</text>
+  <text x="40230.51" y="88201.32"  class="fil2 fnt0">109</text>
+  <text x="45461.43" y="88201.32"  class="fil2 fnt0">111</text>
+  <text x="50387.43" y="88201.32"  class="fil2 fnt0">115</text>
+  <text x="55585.23" y="88201.32"  class="fil2 fnt0">117</text>
+  <text x="61015.06" y="88201.32"  class="fil2 fnt0">121</text>
+  <text x="65834.95" y="88201.32"  class="fil2 fnt0">125</text>
+  <text x="71019.49" y="88201.32"  class="fil2 fnt0">127</text>
+  <text x="77026.15" y="88201.32"  class="fil2 fnt0">127а</text>
+  <text x="139147.79" y="73237.76"  class="fil2 fnt0">СУМ</text>
+  <text x="139147.79" y="65905.15"  class="fil2 fnt0">153</text>
+  <text x="140573.22" y="64333.87"  class="fil2 fnt0">152</text>
+  <text x="141985.37" y="66336.08"  class="fil2 fnt0">150</text>
+  <text x="141985.37" y="69465.37"  class="fil2 fnt0">148</text>
+  <text x="141985.37" y="81730.59"  class="fil2 fnt0">146</text>
+  <text x="141985.37" y="84740.54"  class="fil2 fnt0">144</text>
+  <text x="141985.37" y="87193.58"  class="fil2 fnt0">142</text>
+  <text x="141985.37" y="90495.24"  class="fil2 fnt0">140</text>
+  <text x="141985.37" y="99259.91"  class="fil2 fnt0">140</text>
+  <text x="141985.37" y="118088.67"  class="fil2 fnt0">138</text>
+  <text x="139147.79" y="111551.64"  class="fil2 fnt0">147</text>
+  <text x="139147.79" y="108342.8"  class="fil2 fnt0">149</text>
+  <text x="139147.79" y="96767.08"  class="fil2 fnt0">151</text>
+  <text x="85333.33" y="69790.24"  class="fil2 fnt0">154</text>
+  <text x="85333.33" y="66919.51"  class="fil2 fnt0">156</text>
+  <text x="86831.68" y="58592.42"  class="fil2 fnt0">158</text>
+  <text x="88575.33" y="66919.51"  class="fil2 fnt0">157</text>
+  <text x="88575.33" y="69790.24"  class="fil2 fnt0">155</text>
+  <text x="83755.43" y="94108.52"  class="fil2 fnt0">В1</text>
+  <text x="86917.86" y="94108.52"  class="fil2 fnt0">В1</text>
+  <text x="90100.18" y="94108.52"  class="fil2 fnt0">В1</text>
+  <text x="133505.8" y="114966.01"  class="fil2 fnt0">В9</text>
+  <text x="133505.8" y="77593.56"  class="fil2 fnt0">В7</text>
+  <text x="132447.33" y="61034.45"  class="fil2 fnt0">В8!!!!</text>
+  <text x="79538.84" y="40751.5"  class="fil2 fnt0">В6</text>
+  <text x="78692.28" y="2747.31"  class="fil2 fnt0">В5!!!</text>
+  <text x="76880.28" y="79483.07"  class="fil2 fnt0">В4</text>
+  <text x="32891.27" y="78641.08"  class="fil2 fnt0">В3</text>
+  <text x="33255.88" y="59600.16"  class="fil2 fnt0">В2</text>
+  <text x="38315.68" y="114605.87"  class="fil2 fnt0">В10!!!</text>
+  <text x="21635.83" y="114674.88"  class="fil2 fnt0">В11!!!</text>
+ </g>
+</svg>
